@@ -15,7 +15,7 @@ for nameDir in peopleList:
         print('Rostros: ', nameDir + '/' + fileName)
         labels.append(label)
         facesData.append(cv2.imread(personPath+'/'+fileName,0))
-        #image = cv2.imread(personPath+'/'+fileName,0)
+        image = cv2.imread(personPath+'/'+fileName,0)
         #cv2.imshow('image',image)
         #cv2.waitKey(10)
     label = label + 1
