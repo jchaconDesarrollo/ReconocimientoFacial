@@ -44,7 +44,7 @@ Para comenzar a detectar y reconocer caras usaremos el modelo obtenido durante e
 
 5. Video de funcionamiento
 
-
+https://drive.google.com/file/d/1P1qOQ_qebgbGE3_MvkllwltwWHr2rS85/view?usp=sharing
 
 
 
